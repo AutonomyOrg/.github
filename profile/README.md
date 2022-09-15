@@ -1,5 +1,3 @@
-# Welcome to Autonomy Organisation
+# Welcome to Sofair Organisation
 
-Autonomy Organisation aims at implementing a new coopetitive and redistributive investment ecosystem for crypto assets.
-
-This document is embryonic and will be improved in the near future.
+Sofair Organisation aims at building a community-propelled decentralized and collaborative finance with shared values as fairness, equality, wealth sharing, or altruism.
